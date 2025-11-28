@@ -6,11 +6,11 @@ export default async function TestPage({
   params,
   searchParams,
 }: {
-  params: Promise<{ id: string }>;
-  searchParams: { cred?: string };
+  params: { id: string };
+  searchParams?: { cred?: string };
 }) {
-  const { id } = await params;
-  const { cred } = searchParams;
+  const { id } = params;
+  const cred = searchParams?.cred;
 
   // Server-side validation of the credential
   if (!cred || !(await validateCredentials(cred, id))) {
