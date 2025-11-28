@@ -1,6 +1,6 @@
-# Interprep
+# SmartRecruit
 
-**Interprep** is an AI-powered platform for generating personalized technical and HR assessments, proctoring candidates remotely, and streamlining the hiring process for modern recruitment teams.
+**SmartRecruit** is an AI-powered platform for generating personalized technical and HR assessments, proctoring candidates remotely, and streamlining the hiring process for modern recruitment teams.
 
 ## Features
 
