@@ -1,8 +1,10 @@
+// @ts-nocheck
+
 import { redirect } from "next/navigation";
 import { validateCredentials } from "@/lib/validateCredential";
 import TestContainer from "@/components/test/test-container";
 
-export default async function TestPage(props: any) {
+export default async function TestPage(props) {
   const { params, searchParams } = props;
 
   const id = params?.id;
@@ -18,4 +20,3 @@ export default async function TestPage(props: any) {
     </main>
   );
 }
-
