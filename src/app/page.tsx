@@ -24,7 +24,7 @@ export default async function LandingPage() {
         <div className="container mx-auto flex h-16 items-center justify-between py-4">
           <div className="flex items-center gap-2">
             <FileText className="text-primary h-6 w-6" />
-            <span className="text-xl font-bold">Interprep</span>
+            <span className="text-xl font-bold">Smart2Recruit</span>
           </div>
           <nav className="hidden items-center gap-6 md:flex">
             <Link
@@ -103,7 +103,7 @@ export default async function LandingPage() {
                   Everything You Need for Effective Candidate Assessment
                 </h2>
                 <p className="text-muted-foreground max-w-[900px] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Interprep provides a complete solution for creating,
+                  Smart2Recruit provides a complete solution for creating,
                   delivering, and analyzing personalized candidate assessments
                   with the power of AI.
                 </p>
@@ -221,7 +221,7 @@ export default async function LandingPage() {
                   How Our AI Transforms Recruitment
                 </h2>
                 <p className="text-muted-foreground max-w-[900px] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Discover how Interprep&apos;s advanced AI capabilities deliver
+                  Discover how Smart2Recruit&apos;s advanced AI capabilities deliver
                   smarter, faster, and more effective hiring outcomes.
                 </p>
               </div>
@@ -375,7 +375,7 @@ export default async function LandingPage() {
                   Ready to Transform Your Hiring with AI?
                 </h2>
                 <p className="max-w-[900px] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Join forward-thinking companies using Interprep&apos;s AI to
+                  Join forward-thinking companies using Smart2Recruit&apos;s AI to
                   find the best talent faster, reduce hiring costs by 60%, and
                   improve retention rates.
                 </p>
@@ -395,7 +395,7 @@ export default async function LandingPage() {
         <div className="container mx-auto flex flex-col items-center justify-center gap-4 px-4 text-center">
           <div className="flex items-center gap-2">
             <FileText className="text-primary h-6 w-6" />
-            <span className="text-xl font-bold">Interprep</span>
+            <span className="text-xl font-bold">Smart2Recruit</span>
           </div>
           <p className="text-muted-foreground max-w-md text-sm">
             AI-powered platform for generating personalized technical
@@ -403,7 +403,7 @@ export default async function LandingPage() {
           </p>
           <div className="mt-2 flex flex-col items-center gap-2">
             <p className="text-muted-foreground text-xs">
-              © {new Date().getFullYear()} Interprep. All rights reserved.
+              © {new Date().getFullYear()} Smart2Recruit. All rights reserved.
             </p>
             <p className="text-muted-foreground text-xs">
               Made with ❤️ for modern recruitment teams

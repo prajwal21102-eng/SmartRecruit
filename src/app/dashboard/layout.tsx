@@ -49,7 +49,7 @@ export default function DashboardLayout({
         <Sidebar>
           <SidebarHeader className="border-b">
             <div className="flex h-14 items-center px-4">
-              <span className="font-semibold">InterPrep</span>
+              <span className="font-semibold">Smart2Recruit</span>
             </div>
           </SidebarHeader>
           <SidebarContent>

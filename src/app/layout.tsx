@@ -7,8 +7,8 @@ import { TRPCReactProvider } from "@/trpc/react";
 import { SessionProvider } from "next-auth/react";
 
 export const metadata: Metadata = {
-  title: "InterPrep",
-  description: "InterPrep is a platform for preparing for interviews.",
+  title: "Smart2Recruit",
+  description: "Smart2Recruit is a platform for preparing for interviews.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 

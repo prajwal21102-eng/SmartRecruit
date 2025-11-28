@@ -198,7 +198,7 @@ export const candidateRouter = createTRPCRouter({
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>You've been assigned a test on Interprep!</title>
+    <title>You've been assigned a test on Smart2Recruit!</title>
     <style>
         body {
             font-family: sans-serif;
@@ -266,11 +266,11 @@ export const candidateRouter = createTRPCRouter({
 <body>
     <div class="container">
         <div class="header">
-            <h1>New Test Assigned on Interprep!</h1>
+            <h1>New Test Assigned on Smart2Recruit!</h1>
         </div>
         <div class="content">
             <p>Hi ${candidate.name},</p>
-            <p>You have been assigned a new test on the Interprep platform.</p>
+            <p>You have been assigned a new test on the Smart2Recruit platform.</p>
 
             <div class="test-details">
                 <p><strong>Test Title:</strong> ${test.title}</p>
@@ -288,7 +288,7 @@ export const candidateRouter = createTRPCRouter({
             <p>Good luck!</p>
         </div>
         <div class="footer">
-            <p>&copy; ${new Date().getFullYear()} Interprep. All rights reserved.</p>
+            <p>&copy; ${new Date().getFullYear()} Smart2Recruit. All rights reserved.</p>
         </div>
     </div>
 </body>
