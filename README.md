@@ -34,7 +34,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/prajwal21102-eng/interprep.git
+   git clone https://github.com/prajwal21102-eng/SmartRecruit.git
    cd interprep
    ```
 
